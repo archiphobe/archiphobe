@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Debugging ECONNREFUSED/ECONNRESET on a microservices architecture"
+title:  "Understanding ECONNREFUSED/ECONNRESET on a Microservices architecture"
 ---
 
 # Understanding ECONNREFUSED/ECONNRESET on a Microservices architecture
