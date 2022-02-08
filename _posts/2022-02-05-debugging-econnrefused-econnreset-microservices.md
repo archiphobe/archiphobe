@@ -1,9 +1,9 @@
 ---
 layout: default
-title:  "Understanding ECONNREFUSED/ECONNRESET on a Microservices architecture"
+title:  "Investigating TCP problems on a Microservices architecture"
 ---
 
-# Understanding ECONNREFUSED/ECONNRESET on a Microservices architecture
+# Investigating TCP problems on a Microservices architecture
 
 ## Every problem starts with a symptom
 A few days ago I noticed an increased number of events on our error reporting platform. The events indicated some errors with one of our Node.js microservices.
