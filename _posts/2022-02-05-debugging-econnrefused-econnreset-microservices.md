@@ -5,7 +5,7 @@ title:  "Debugging ECONNREFUSED/ECONNRESET on a microservices architecture"
 
 # Understanding ECONNREFUSED/ECONNRESET on a Microservices architecture
 
-# Every problem starts with a symptom
+## Every problem starts with a symptom
 A few days ago I noticed an increased number of events on our error reporting platform. The events indicated some errors with one of our Node.js microservices.
 
 The error messages were the following:
