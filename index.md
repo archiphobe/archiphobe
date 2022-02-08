@@ -1,2 +1,2 @@
-## Welcome to GitHub Pages
+## Archiphobe - An architect blog
 
